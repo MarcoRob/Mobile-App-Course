@@ -2,16 +2,21 @@ package mx.itesm.localstorage;
 
 import android.content.ContentValues;
 import android.content.Context;
+import android.content.res.AssetManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.Properties;
 
 public class MainActivity extends AppCompatActivity {
@@ -51,11 +56,34 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 // create file
                 this.saveProperties();
-
             }
+
+            // Cargar datos al proyecto
+            // Assets y Raw
+            // Raw - Folder de resources
+            // - Indezado en R
+            // - No procesa lo que está adentro
+            InputStream is = getResources().openRawResource(R.raw.ejemplo);
+            BufferedReader br = new BufferedReader(new InputStreamReader(is));
+            String temp = "";
+            while((temp = br.readLine()) != null) {
+                Log.d("RAW", temp);
+            }
+
+            AssetManager manager = getAssets();
+            is = manager.open("saludos.txt");
+            br = new BufferedReader(new InputStreamReader(is));
+            while((temp = br.readLine()) != null) {
+                Log.d("ASSETS", temp);
+            }
+
         } catch (IOException ioe) {
             ioe.printStackTrace();
         }
+
+
+
+
     }
 
     public void saveToMemory(View v) {
