@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/.android/build-cache/d11d823db2e036eee60d849514d1504785b0b1bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6871887863ef3cdff0637c1838918e64618ee9e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/.android/build-cache/a4a862778aeb9e471d0e9307b688621ddfd1aebd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0336bc2e512cc9eeb20350116684c1a3494b661e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/.android/build-cache/6d77aa08bc751f45ad9aadd8c18f700c748c8c9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab115aeaaaf35d06e572e29c194467e5eeabac3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/.android/build-cache/cf1c843afa619df04f64d3d836ccad48b92995b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19aac132e9cef4370cab1b5288d2a52386e0412d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/.android/build-cache/83e034d7e3488a793b584a413caee1023f586622/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09fc07a89a290361e0e42ed06c43d05190b2f7bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d51b7873f38c9a69a9d485e536ce362ae13f1732">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_822b6ed63df315a57cecf33dc6a558b5f299b884/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/.android/build-cache/ced3fe02b97cea6d8e94bbfd8df420c1ba804bc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d29b24639efcc2c8f69abcf22931cffcf156dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/.android/build-cache/3b11c13b99df5918b716594f681f1227d0115fba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7f12bf9e394008b8c10d404b7de79540550054f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0fc7a93219f4ad6f6c4d61b3dae1b30d932bf346/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_539fe6f61acccf7084f0693ee5915b57e47d4a9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6a2b831374d698ffe80c5f0748fb3949fa23594d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/.android/build-cache/d0575d28383c1ba962f2ebc881b306a6df8d2f03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17dc6cc00c27a6179b5ee7ef71512d85435c0910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/.android/build-cache/8b0df83df78edbe66132cd8db7e2db546aa3fb54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_082a340db44f8d51260fbb0ff717d70696b90fd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/UXLab/.android/build-cache/7370baa4c9a58b883f54b62e12b72e5510e4c63a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/UXLab/Source/TC2024-Mobile-Apps-Course/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30b3befba0b95d6c11fae42480cb0c0de24851d3/classes.dex" />
+    </item>
+
+</items>
