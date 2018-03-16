@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TC2024-Mobile-Apps-Course.iml" filepath="$PROJECT_DIR$/TC2024-Mobile-Apps-Course.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TC2024-Mobile-Apps-Course.iml" filepath="$PROJECT_DIR$/.idea/modules/TC2024-Mobile-Apps-Course.iml" />
     </modules>
   </component>
 </project>
