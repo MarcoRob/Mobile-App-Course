@@ -1,2 +1,5 @@
-# TC2024-Mobile-Apps-Course
-TC2024 - Moviles
+# TC2024 - Mobile Applications Development Course
+
+## Projects developed in the TC2024 Course
+
+> Feel free to review the topics.
