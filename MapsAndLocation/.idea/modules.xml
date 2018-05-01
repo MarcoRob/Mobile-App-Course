@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MapsAndLocation.iml" filepath="$PROJECT_DIR$/MapsAndLocation.iml" />
+      <module fileurl="file://C:\Users\marco\Source\Moviles\MapsAndLocation\MapsAndLocation.iml" filepath="C:\Users\marco\Source\Moviles\MapsAndLocation\MapsAndLocation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\marco\Source\Moviles\MapsAndLocation\app\app.iml" filepath="C:\Users\marco\Source\Moviles\MapsAndLocation\app\app.iml" />
     </modules>
   </component>
 </project>
