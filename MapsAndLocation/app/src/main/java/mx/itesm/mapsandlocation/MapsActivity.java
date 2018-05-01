@@ -22,6 +22,8 @@ public class MapsActivity extends FragmentActivity implements
 
     private GoogleMap mMap;
 
+    private LocationRequest locationRequest;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,6 +32,8 @@ public class MapsActivity extends FragmentActivity implements
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
+
+        // configuracion de cliente
     }
 
 
